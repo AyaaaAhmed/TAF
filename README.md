@@ -12,3 +12,4 @@ My first selenuim testing framework using
     *RegestedEmailAlready
   4-selenium.TakesScreenshot to be able to take screenshot on failures
   5-maven project to support dependencies
+  6-testng annoations
