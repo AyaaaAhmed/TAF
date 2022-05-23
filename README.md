@@ -1,5 +1,5 @@
 # TAF
-My first selenuim testing framework using
+My selenuim testing framework using
   1-pom design patters as page objects
     *RegesterdUserAlreadyPage
     *MyAccount
